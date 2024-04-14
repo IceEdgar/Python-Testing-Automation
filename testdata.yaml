@@ -1,0 +1,21 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: "JuanMay89"
+password: "07711a5e5e"
+
+title: "Фурина"
+description: "Гидро архонт Фонтейна"
+content: "Сильный персонаж водной стихии"
+
+username: Edgar
+user_email: sorata05@mail.com
+content_contact: "Сильный персонаж водной стихии"
+
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'Investment'
+url_user:  https://test-stand.gb.ru/api/users/profile/28235

@@ -1,0 +1,16 @@
+2024-04-14 16:49:04 INFO ====== WebDriver manager ======
+2024-04-14 16:49:04 INFO Get LATEST chromedriver version for google-chrome
+2024-04-14 16:49:05 INFO Get LATEST chromedriver version for google-chrome
+2024-04-14 16:49:05 INFO Driver [/home/edgar/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-04-14 16:49:07 INFO Test1 Starting
+2024-04-14 16:49:11 INFO Test2 Starting
+2024-04-14 16:49:14 INFO Test3 Stsrting
+2024-04-14 16:49:17 INFO Test4 Stsrting
+2024-04-14 16:49:19 INFO Test5 Stsrting
+2024-04-14 16:49:25 INFO Test6 Contact_us Starting
+2024-04-14 16:49:27 INFO Get alert message
+2024-04-14 16:49:27 INFO Alert message is Form successfully submitted
+2024-04-14 16:49:29 INFO Test8 create post started
+2024-04-14 16:49:30 INFO Test7 check not me post started
+2024-04-14 16:49:31 INFO Test8 create post started
+2024-04-14 16:49:32 INFO Test9 check description started
