@@ -3,6 +3,7 @@ import string
 
 
 def checkout(cmd: str, text: str, find_words_mode: bool = False) -> bool:
+
     result = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, encoding='utf-8')
 
     print(result.stdout)
@@ -13,3 +14,4 @@ def checkout(cmd: str, text: str, find_words_mode: bool = False) -> bool:
         return text in output_without_punctuation
     else:
         return text in result.stdout
+

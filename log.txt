@@ -1,16 +1,17 @@
-2024-04-14 16:49:04 INFO ====== WebDriver manager ======
-2024-04-14 16:49:04 INFO Get LATEST chromedriver version for google-chrome
-2024-04-14 16:49:05 INFO Get LATEST chromedriver version for google-chrome
-2024-04-14 16:49:05 INFO Driver [/home/edgar/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
-2024-04-14 16:49:07 INFO Test1 Starting
-2024-04-14 16:49:11 INFO Test2 Starting
-2024-04-14 16:49:14 INFO Test3 Stsrting
-2024-04-14 16:49:17 INFO Test4 Stsrting
-2024-04-14 16:49:19 INFO Test5 Stsrting
-2024-04-14 16:49:25 INFO Test6 Contact_us Starting
-2024-04-14 16:49:27 INFO Get alert message
-2024-04-14 16:49:27 INFO Alert message is Form successfully submitted
-2024-04-14 16:49:29 INFO Test8 create post started
-2024-04-14 16:49:30 INFO Test7 check not me post started
-2024-04-14 16:49:31 INFO Test8 create post started
-2024-04-14 16:49:32 INFO Test9 check description started
+2024-04-21 16:18:50 INFO ====== WebDriver manager ======
+2024-04-21 16:18:50 INFO Get LATEST chromedriver version for google-chrome
+2024-04-21 16:18:51 INFO Get LATEST chromedriver version for google-chrome
+2024-04-21 16:18:51 INFO Driver [/home/edgar/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-04-21 16:18:53 INFO Check Error messages started
+2024-04-21 16:18:56 INFO Check login started
+2024-04-21 16:18:58 INFO Check About page started
+2024-04-21 16:19:02 INFO Check header font started
+2024-04-21 16:19:04 INFO Create new post started
+2024-04-21 16:19:10 INFO Check Contact us started
+2024-04-21 16:19:12 INFO Get alert message
+2024-04-21 16:19:12 INFO Alert message is Form successfully submitted
+2024-04-21 16:19:13 INFO Check username started
+2024-04-21 16:19:15 INFO Check not my post started
+2024-04-21 16:19:16 INFO Create post started
+2024-04-21 16:19:17 INFO Check description started
+2024-04-21 16:19:17 INFO Vulnerability check started

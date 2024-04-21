@@ -13,9 +13,8 @@ username: Edgar
 user_email: sorata05@mail.com
 content_contact: "Сильный персонаж водной стихии"
 
-
 url_login: https://test-stand.gb.ru/gateway/login
 url_post: https://test-stand.gb.ru/api/posts
 address_post: https://test-stand.gb.ru/gateway/posts
-not_me_title: 'Investment'
+not_me_title: '1111'
 url_user:  https://test-stand.gb.ru/api/users/profile/28235
