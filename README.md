@@ -1,1 +1,1 @@
-# Python-Testing-Automation
+# Автоматизация тестирования на Python
